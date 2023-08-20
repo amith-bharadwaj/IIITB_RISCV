@@ -202,7 +202,6 @@ We will load the hex format of C Program to the RISC-V CPU which is written in v
 Follow the below commands to run the program.
 
 ```
-vim rv32im.sh
 chmod rv32im.sh
 ./rv32im.sh
 ```
