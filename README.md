@@ -27,7 +27,7 @@ make
 sudo make install
 
 gedit .bashrc
-export PATH="/home/amith/riscv_toolchain/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-linux-ubuntu14/bin:$PATH" #Type at 
+export PATH="/home/amith/riscv_toolchain/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-linux-ubuntu14/bin:$PATH" 
 source .bashrc
 ```
 
