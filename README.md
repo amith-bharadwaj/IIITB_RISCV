@@ -318,5 +318,15 @@ This circuit implements a calculator that can perform +,-,*,/ on two input value
 
 ![Screenshot from 2023-08-21 00-16-27](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/68075105-8e82-4f62-b808-37a66b3e38c7)
 
-
 </details>
+
+## References
+
+1. https://www.vsdiat.com/
+2. https://github.com/kunalg123/vsdflow
+3. https://teamvlsi.com
+4. https://vlsiverify.com/verilog
+5. https://github.com/stevehoover/RISC-V_MYTH_Workshop
+
+
+
