@@ -248,6 +248,7 @@ chmod rv32im.sh
 <summary>DAY-3</summary>
 
 # DAY-3
+# Digital Logic with TL-verilog and MakerChip
 
 **Logic Gates** : Logic gates are fundamental building blocks of digital circuits that perform logical operations on one or more binary inputs (usually represented as 0 or 1) to produce a binary output. These gates implement basic logical functions and are the foundation of all digital systems and computers.
 
