@@ -194,6 +194,19 @@ riscv64-unknown-elf-objdump -d 1to9_custom.o |less
 
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/9d5624c4-ab71-4b22-9a83-e2a330cc4191)
 
+## Lab to run C program on RISC-V CPU
+We will load the hex format of C Program to the RISC-V CPU which is written in verilog and the end result is displayed.
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/173e1d5e-2d97-4370-b67b-4acd8092f082)
+
+Follow the below commands to run the program.
+
+```
+vim rv32im.sh
+chmod rv32im.sh
+./rv32im.sh
+```
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/11ddb3bb-27fd-4ae0-b01b-a5b25084ebab)
 
 
 </details>
