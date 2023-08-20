@@ -1,4 +1,4 @@
-![image](https://github.com/amith-bharadwaj/RISCV_ISA/assets/84613258/c996a212-014b-4f15-b100-2c9753d801cc)# RISCV_ISA
+# RISCV_ISA
 
 <details>
     
