@@ -2,7 +2,7 @@
 
 <details>
     
-<summary>DAY_1</summary>
+<summary>DAY-1</summary>
 
 # DAY-1
 ## Introduction to RISC-V ISA and GNU compiler toolchain
