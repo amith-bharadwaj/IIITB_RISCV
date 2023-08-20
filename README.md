@@ -107,11 +107,8 @@ In a 64-bit computer architecture,
         This size is often chosen to match the size of the processor's general-purpose registers, enabling efficient processing of data.
         Words are commonly used for integer arithmetic, memory addressing, and data manipulation operations.
 
-**Double Word:**
-
-        In a 64-bit architecture, a "double word" is a unit of data that is twice the size of a word, hence 128 bits or 16 bytes.
-        Double words are used for larger data structures, floating-point numbers, and certain specialized operations that require more storage space.
-
+**Double Word:** In a 64-bit architecture, a "double word" is a unit of data that is twice the size of a word, hence 128 bits or 16 bytes.Double words are used for larger data structures, floating-point numbers, and certain specialized operations that require more storage space.
+        
         
 ![image](https://github.com/amith-bharadwaj/RISCV_ISA/assets/84613258/b2e2a8db-c052-4aac-ae13-22d5780536ee)
 
