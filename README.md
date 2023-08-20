@@ -320,7 +320,11 @@ This circuit implements a calculator that can perform +,-,*,/ on two input value
 
 </details>
 
-## References
+<summary>REFERENCES</summary>
+
+<details>
+
+# REFERENCES
 
 1. https://www.vsdiat.com/
 2. https://github.com/kunalg123/vsdflow
@@ -329,4 +333,4 @@ This circuit implements a calculator that can perform +,-,*,/ on two input value
 5. https://github.com/stevehoover/RISC-V_MYTH_Workshop
 
 
-
+</details>
