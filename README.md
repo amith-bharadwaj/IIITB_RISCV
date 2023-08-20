@@ -320,9 +320,10 @@ This circuit implements a calculator that can perform +,-,*,/ on two input value
 
 </details>
 
-<summary>REFERENCES</summary>
 
 <details>
+    
+<summary>REFERENCES</summary>
 
 # REFERENCES
 
