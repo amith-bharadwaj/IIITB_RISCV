@@ -165,7 +165,7 @@ The add instruction below performs the addition operation by adding the values s
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/d17f8452-72fa-496c-bea4-fa210881d1fc)
 
 The below image shows the different ABI names,registers and its usages.
-![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/95a409f7-6a8c-4abd-afbe-2dcaad4177d1)
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/d2614bb0-4fb3-4fbb-b747-437924e937fb)
 
 ## Lab Work using ABI function calls
 
