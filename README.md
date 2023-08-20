@@ -157,7 +157,7 @@ The format of instruction can be seen below.
 
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/5bb365b1-f46c-4e87-a65c-fc398499e059)
 
-The instruction below performs the addition operation by adding the values stored in registers x24 and x8 together. The result of the addition is then stored back in register x8, overwriting the previous value.
+The add instruction below performs the addition operation by adding the values stored in registers x24 and x8 together. The result of the addition is then stored back in register x8, overwriting the previous value.
 
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/b9cbd593-8d84-4d53-9701-7b8b10baa843)
 
