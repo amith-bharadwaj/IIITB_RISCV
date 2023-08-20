@@ -115,7 +115,6 @@ In a 64-bit computer architecture,
 Here below we can see the representation of unsigned numbers in 64 bit architecture.
 
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/38c73c57-49dd-4498-b9c0-27e5186db566)
-![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/3ab12d55-47c2-4c35-a391-d84581890e59)
 
 The format and memory for different data types are given below.
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/af2dce03-20cd-40af-95b6-6dcb24227517)
