@@ -122,3 +122,22 @@ The format and memory for different data types are given below.
 
 </details>
 
+# DAY-2
+## Application Binary Interface
+
+The Application Binary Interface (ABI) for the RISC-V architecture defines a set of rules and conventions for the interaction between software components at the binary level. It encompasses how functions are called, how data is represented and manipulated, how memory is managed, and how system calls are made. The RISC-V ABI ensures compatibility and interoperability between different software modules, making it possible for programs to work seamlessly on different systems that adhere to the same ABI.
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/1f14cdec-d0cc-498f-b0a6-4f8a1e3f118a)
+
+### Memory Allocation 
+
+There are two different ways to load the data into registers,the data can be loaded directly to registers but as we dont have large number of registers, we can load the data into the memory and then from memory we can load the data into the registers.
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/982bd744-0e8d-45ba-b862-419dcdd9e2a1)
+
+RiscV belongs to little-endian memory addressing system.Little-endian memory addressing is a way of organizing and storing data in computer memory where the least significant byte (LSB) of a multi-byte value is stored at the lowest memory address, while the most significant byte (MSB) is stored at a higher memory address.This byte order is opposite to big-endian memory addressing.
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/0839e671-7024-492d-b167-c9e186aeb7e3)
+
+
+
