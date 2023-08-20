@@ -1,4 +1,4 @@
-# RISCV_ISA
+# IIITB_RISCV
 
 <details>
     
