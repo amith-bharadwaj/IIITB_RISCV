@@ -167,6 +167,15 @@ The add instruction below performs the addition operation by adding the values s
 The below image shows the different ABI names,registers and its usages.
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/95a409f7-6a8c-4abd-afbe-2dcaad4177d1)
 
+## Lab Work using ABI function calls
+
+Let us perform the lab to rewrite c program in asm language.The main c program passes a0 and a1 to ASM block and the ASM returns a0 back to the main c program.
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/c231b772-fe51-484c-b5c6-3fd9c8ee9478)
+
+The algorithm for the operation of program can be seen below.
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/9328af16-2bd0-4726-ab15-ed8554c293d9)
 
 
 </details>
