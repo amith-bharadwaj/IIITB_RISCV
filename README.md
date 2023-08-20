@@ -117,10 +117,8 @@ Here below we can see the representation of unsigned numbers in 64 bit architect
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/38c73c57-49dd-4498-b9c0-27e5186db566)
 
 The format and memory for different data types are given below.
-![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/af2dce03-20cd-40af-95b6-6dcb24227517)
 
-
-
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/094579d4-2127-4602-a157-21563d46535f)
 
 </details>
 
