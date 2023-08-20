@@ -186,6 +186,11 @@ This is load.S file
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/68ef46f8-b98c-42cb-b4c6-d5900efb0447)
 
 The execution of the program is performed.
+```
+riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv64i -o 1to9_custom.o 1to9_custom.c load.S
+spike pk 1to9_custom.o
+riscv64-unknown-elf-objdump -d 1to9_custom.o |less
+```
 
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/9d5624c4-ab71-4b22-9a83-e2a330cc4191)
 
