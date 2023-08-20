@@ -122,6 +122,10 @@ The format and memory for different data types are given below.
 
 </details>
 
+<details>
+    
+<summary>DAY-2</summary>
+
 # DAY-2
 ## Application Binary Interface
 
@@ -138,5 +142,7 @@ There are two different ways to load the data into registers,the data can be loa
 RiscV belongs to little-endian memory addressing system.Little-endian memory addressing is a way of organizing and storing data in computer memory where the least significant byte (LSB) of a multi-byte value is stored at the lowest memory address, while the most significant byte (MSB) is stored at a higher memory address.This byte order is opposite to big-endian memory addressing.
 
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/53829752-ee0f-4170-a491-724a64ded03f)
+
+</details>
 
 
