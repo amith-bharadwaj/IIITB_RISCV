@@ -153,6 +153,10 @@ RiscV belongs to little-endian memory addressing system.Little-endian memory add
     
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/82e52cc8-7eb7-49dc-b5be-7993857d3412)
 
+The format of instruction can be seen below.
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/5bb365b1-f46c-4e87-a65c-fc398499e059)
+
 
 </details>
 
