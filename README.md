@@ -177,6 +177,18 @@ The algorithm for the operation of program can be seen below.
 
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/1b55a7fc-b712-4c4a-b659-1a659298a999)
 
+This is 1to9_custom.c file 
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/4da8461e-3ac1-4073-abda-b0268e556984)
+
+This is load.S file
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/68ef46f8-b98c-42cb-b4c6-d5900efb0447)
+
+The execution of the program is performed.
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/9d5624c4-ab71-4b22-9a83-e2a330cc4191)
+
 
 
 </details>
