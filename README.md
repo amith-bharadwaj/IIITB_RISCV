@@ -161,6 +161,15 @@ The add instruction below performs the addition operation by adding the values s
 
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/b9cbd593-8d84-4d53-9701-7b8b10baa843)
 
+
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/d17f8452-72fa-496c-bea4-fa210881d1fc)
+
+These
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/95a409f7-6a8c-4abd-afbe-2dcaad4177d1)
+
+
+
 </details>
 
 
