@@ -143,6 +143,17 @@ RiscV belongs to little-endian memory addressing system.Little-endian memory add
 
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/53829752-ee0f-4170-a491-724a64ded03f)
 
+**ld:** This mnemonic stands for "load double-word." It's an instruction used to load a 64-bit (8-byte) value from memory into a register.
+
+**x8:** This is the destination register where the loaded value will be stored. In RISC-V assembly language, registers are denoted by the "x" prefix followed by a number (e.g., x0, x1, x2, ..., x31).
+
+**16:** This is the immediate offset value, which indicates the offset from the address stored in register x23. The offset is added to the address in x23 to calculate the memory address from which the value will be loaded.
+
+**(x23):** This indicates that the address to be used for loading the value is stored in register x23. x23 is the base register, and the offset is added to its value to compute the effective memory address.
+    
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/82e52cc8-7eb7-49dc-b5be-7993857d3412)
+
+
 </details>
 
 
