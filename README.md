@@ -175,7 +175,8 @@ Let us perform the lab to rewrite c program in asm language.The main c program p
 
 The algorithm for the operation of program can be seen below.
 
-![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/9328af16-2bd0-4726-ab15-ed8554c293d9)
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/1b55a7fc-b712-4c4a-b659-1a659298a999)
+
 
 
 </details>
