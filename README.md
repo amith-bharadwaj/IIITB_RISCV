@@ -216,11 +216,11 @@ chmod rv32im.sh
 
 # DAY-3
 
-Logic Gates
+**Logic Gates** : Logic gates are fundamental building blocks of digital circuits that perform logical operations on one or more binary inputs (usually represented as 0 or 1) to produce a binary output. These gates implement basic logical functions and are the foundation of all digital systems and computers.
 
 ![Screenshot from 2023-08-20 22-45-39](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/2d0c3c6b-cce4-4b0c-aa62-257f9a5c623c)
 
-Combinational Circuit
+**Combinational Circuit** : A combinational circuit is a type of digital circuit in which the output is solely determined by the current input values, without any consideration of previous inputs or circuit states. In other words, the output of a combinational circuit depends only on the instantaneous values of its input signals, and there is no concept of memory or feedback within the circuit. Combinational circuits are widely used in digital systems for tasks such as arithmetic operations, data manipulation, and logic processing.
 
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/c1554765-ea65-4b0d-a4c0-3b4b6d9a6992)
 
