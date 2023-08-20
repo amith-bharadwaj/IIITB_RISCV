@@ -111,6 +111,7 @@ In a 64-bit computer architecture,
 
         In a 64-bit architecture, a "double word" is a unit of data that is twice the size of a word, hence 128 bits or 16 bytes.
         Double words are used for larger data structures, floating-point numbers, and certain specialized operations that require more storage space.
+
         
 ![image](https://github.com/amith-bharadwaj/RISCV_ISA/assets/84613258/b2e2a8db-c052-4aac-ae13-22d5780536ee)
 
