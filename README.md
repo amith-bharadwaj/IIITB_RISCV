@@ -210,4 +210,79 @@ chmod rv32im.sh
 
 </details>
 
+<details>
+    
+<summary>DAY-3</summary>
 
+# DAY-3
+
+Logic Gates
+
+![Screenshot from 2023-08-20 22-45-39](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/2d0c3c6b-cce4-4b0c-aa62-257f9a5c623c)
+
+Combinational Circuit
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/c1554765-ea65-4b0d-a4c0-3b4b6d9a6992)
+
+Adder
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/e923ea4f-f6ba-4ea5-9989-301f031339ca)
+
+Boolean Operator
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/97c73212-01ba-44e3-a320-91baac99dad9)
+
+Multiplexer
+
+![Screenshot from 2023-08-20 22-58-39](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/98e0e463-386e-43ff-ab0d-fc75932a46d2)
+
+Chaining Ternary Operator
+
+![Screenshot from 2023-08-20 23-04-09](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/911f4d64-9c85-465b-adcf-c3633c69015f)
+
+#### MakerChip
+
+Makerchip is a popular online Integrated Development Environment (IDE) primarily focused on digital design and hardware description languages (HDLs). It's designed to facilitate the design, simulation, and verification of digital circuits and systems.
+
+**Pythagorean Example**
+
+![Screenshot from 2023-08-20 23-29-46](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/b2f7e54d-ad08-49c5-a14a-1cc687a3ae64)
+
+#### Combinational Logic
+
+Task 1: Inverter
+
+![Screenshot from 2023-08-20 23-39-11](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/4109d792-b6d8-41b9-a04c-74a23ba03e24)
+
+Task 2: AND Logic circuit 
+
+![Screenshot from 2023-08-20 23-41-10](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/17943c26-a4dc-49e1-ae35-8d2dfaca1bde)
+
+Task 3: Vectors
+
+$out[4:0] will create a vector of 5 bits.Arithmetic operators on vectors will act as binary numbers. 
+
+![Screenshot from 2023-08-20 23-45-49](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/167b60b0-0fb1-4308-ae16-8933b16e2856)
+
+![Screenshot from 2023-08-20 23-47-58](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/bdf843a6-d4cb-4016-9896-419633010589)
+
+Task 4 : Multiplexer
+
+![Screenshot from 2023-08-20 23-48-53](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/17e1db43-818d-4671-b71c-2d54c2e4e219)
+
+![Screenshot from 2023-08-20 23-52-27](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/b5eda7f8-1aa8-4f54-b040-ba49a6aae014)
+
+Multiplexer using vectors
+
+![Screenshot from 2023-08-20 23-54-36](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/598e0681-8812-454f-8866-a41a359f3170)
+
+Task 5: Combinational Calculator
+
+This circuit implements a calculator that can perform +,-,*,/ on two input values.
+
+![Screenshot from 2023-08-20 23-59-43](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/790dca5b-14bf-4e9c-ac1a-cd45ada9c6f7)
+
+![Screenshot from 2023-08-21 00-16-27](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/68075105-8e82-4f62-b808-37a66b3e38c7)
+
+
+</details>
