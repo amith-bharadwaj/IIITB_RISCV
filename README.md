@@ -68,6 +68,8 @@ Here we can see that 12 instructions were produced.
 
 ![image](https://github.com/amith-bharadwaj/iiitb_asic_class/assets/84613258/980923ad-7fee-4096-b298-8c1797c33bdd)
 
+### Spike simulation and Debug.
+
 Now let us observe the output using spike
 
 ```
@@ -76,6 +78,41 @@ spike pk sum1ton.o
 ```
 
 ![image](https://github.com/amith-bharadwaj/RISCV_ISA/assets/84613258/f4c3d309-97ba-4830-9b16-65b2612d4d61)
+
+The below command is used for debuging line by line.
+```
+spike -d pk sum1ton.o
+```
+
+**LUI**: The "LUI" instruction in RISC-V stands for "Load Upper Immediate." It's used to load an immediate value into the upper 20 bits of a 32-bit register, with the lower 12 bits being filled with zeros. Here's the general format of the LUI instruction:
+
+![image](https://github.com/amith-bharadwaj/RISCV_ISA/assets/84613258/0f14b940-23cd-477c-b36e-99b87a8edff8)
+
+**ADDI**: The "ADDI" instruction in RISC-V stands for "Add Immediate." It's used to add an immediate value to the value in a register and store the result back in the destination register. Here's the general format of the ADDI instruction:
+
+![image](https://github.com/amith-bharadwaj/RISCV_ISA/assets/84613258/887aa66e-dfad-4fef-b8b0-642c3e80f58a)
+
+## 64 Bit Number System for unsigned numbers
+
+In a 64-bit computer architecture,
+
+**Byte:**
+        A "byte" in a 64-bit architecture consists of 8 bits, just like in other architectures.
+        Each byte can represent a range of values from 0 to 255 (2^8 - 1).
+        Bytes are fundamental units of storage and data representation, commonly used for characters, numbers, and other small data units.
+        For example, a single ASCII character like 'A' is represented by a byte.
+
+**Word:**
+        In a 64-bit architecture, a "word" typically refers to a unit of data that is 64 bits, or 8 bytes.
+        This size is often chosen to match the size of the processor's general-purpose registers, enabling efficient processing of data.
+        Words are commonly used for integer arithmetic, memory addressing, and data manipulation operations.
+
+**Double Word:**
+
+        In a 64-bit architecture, a "double word" is a unit of data that is twice the size of a word, hence 128 bits or 16 bytes.
+        Double words are used for larger data structures, floating-point numbers, and certain specialized operations that require more storage space.
+        
+![image](https://github.com/amith-bharadwaj/RISCV_ISA/assets/84613258/b2e2a8db-c052-4aac-ae13-22d5780536ee)
 
 
 </details>
