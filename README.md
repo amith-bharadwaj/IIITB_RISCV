@@ -1,9 +1,4 @@
 # RISCV_ISA
-<details>
-    
-<summary>WEEK_2</summary>
-
-# WEEK_2
 
 <details>
     
@@ -77,4 +72,3 @@ Here we can see that 12 instructions were produced.
 
 </details>
 
-</details>
