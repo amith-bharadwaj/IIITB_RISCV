@@ -92,7 +92,7 @@ spike -d pk sum1ton.o
 
 ![image](https://github.com/amith-bharadwaj/RISCV_ISA/assets/84613258/887aa66e-dfad-4fef-b8b0-642c3e80f58a)
 
-## 64 Bit Number System for unsigned numbers
+## 64 Bit Number System for unsigned numbers and signed numbers
 
 In a 64-bit computer architecture,
 
@@ -108,9 +108,19 @@ In a 64-bit computer architecture,
         Words are commonly used for integer arithmetic, memory addressing, and data manipulation operations.
 
 **Double Word:** In a 64-bit architecture, a "double word" is a unit of data that is twice the size of a word, hence 128 bits or 16 bytes.Double words are used for larger data structures, floating-point numbers, and certain specialized operations that require more storage space.
-        
+
         
 ![image](https://github.com/amith-bharadwaj/RISCV_ISA/assets/84613258/b2e2a8db-c052-4aac-ae13-22d5780536ee)
+
+Here below we can see the representation of unsigned numbers in 64 bit architecture.
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/38c73c57-49dd-4498-b9c0-27e5186db566)
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/3ab12d55-47c2-4c35-a391-d84581890e59)
+
+The format and memory for different data types are given below.
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/af2dce03-20cd-40af-95b6-6dcb24227517)
+
+
 
 
 </details>
