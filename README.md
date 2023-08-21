@@ -318,6 +318,13 @@ This circuit implements a calculator that can perform +,-,*,/ on two input value
 
 ![Screenshot from 2023-08-21 00-16-27](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/68075105-8e82-4f62-b808-37a66b3e38c7)
 
+#### Sequential Logic
+
+Sequential logic refers to a type of digital logic circuit or system in which the output is determined not only by the current inputs but also by the history of inputs.In sequential logic, the circuit contains memory elements such as flip-flops or registers that store information and maintain a state. This stored information influences how the circuit responds to subsequent inputs. The concept of time or clock signal is crucial in sequential logic, as it dictates when the stored information is updated and when new computations can take place.
+
+
+
+
 </details>
 
 
