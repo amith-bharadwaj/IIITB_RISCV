@@ -332,7 +332,7 @@ Task 1: Counter
 
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/55945da3-25dd-4766-a454-06ff83859664)
 
-The TLV code snippet for performing the counter operation is given below.
+The TLV code for performing the counter operation is given below.
 ```
 $cnt[31:0] = $reset ? 0 : (1 + >>1$cnt);
 ```
