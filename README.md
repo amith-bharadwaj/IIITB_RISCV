@@ -434,6 +434,8 @@ Calculator with single value memory
 
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/72abac6c-b4e7-45c5-840b-d688ab4a93e2)
 
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/e718ffa0-e7da-488f-8ed4-cf532aaab61b)
+
 
 </details>
 
