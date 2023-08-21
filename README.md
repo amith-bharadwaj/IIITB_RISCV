@@ -322,6 +322,9 @@ This circuit implements a calculator that can perform +,-,*,/ on two input value
 
 Sequential logic refers to a type of digital logic circuit or system in which the output is determined not only by the current inputs but also by the history of inputs.In sequential logic, the circuit contains memory elements such as flip-flops or registers that store information and maintain a state. This stored information influences how the circuit responds to subsequent inputs. The concept of time or clock signal is crucial in sequential logic, as it dictates when the stored information is updated and when new computations can take place.
 
+Example: Fibbonaci series with Reset
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/c0612a9d-880e-4cd4-8f8d-0f04c23f98b7)
 
 
 
