@@ -402,7 +402,30 @@ The TLV code is given below.
 
 ## Validity
 
+In Transaction-Level Verilog (TL-Verilog), which is an extension of the Verilog hardware description language (HDL), "validity" refers to the concept of indicating whether a piece of data is valid or not. TL-Verilog is designed to facilitate high-level modeling and rapid design entry, particularly for transaction-level modeling.
+
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/23133cdb-8b66-43a5-bd38-9d060f0f1df5)
+
+### Clock Gating
+
+Clock gating is a power-saving technique used in digital circuit design to reduce dynamic power consumption by selectively controlling the clock signal to specific circuit elements or modules. The primary goal of clock gating is to save power by stopping the clock signal from reaching parts of the circuit that are not currently active or performing useful computation.
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/ad5ebcbb-6fff-406c-a6ed-38f640feb825)
+
+Exercise 1: Distance Accumulator
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/2661aebd-ab3d-4791-a547-2c9b80f1a54f)
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/8caeb14a-26b3-405e-bdff-0343e01ed905)
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/4d147b37-36b8-44bd-9351-87e9b597973f)
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/aa5e06e1-5c4e-4346-afd0-e9763a7130f6)
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/e9db6317-eff9-493b-8129-228b585fae43)
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/46aff40e-5d8e-4de6-81c6-1fedd32c25c4)
+
 
 
 </details>
