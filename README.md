@@ -344,6 +344,14 @@ Task 2: Our task is to perform a sequential calculator operation.This calculator
 
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/173d9ac8-065e-4aab-b41b-318403e0c397)
 
+## Pipelining
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/bad4f649-b01c-43b1-8e9c-6e8c0ce9ec43)
+
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/33442b80-9a8c-409d-a963-a95e0facf416)
+
+
 
 </details>
 
