@@ -424,6 +424,15 @@ Exercise 1: Distance Accumulator
 
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/46aff40e-5d8e-4de6-81c6-1fedd32c25c4)
 
+Exercise 2: Cycle Calculator with Validity
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/58913fc5-c379-4fa5-8673-0ab4b24d792b)
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/3cc36546-b378-49b4-92d6-1fcc40ef3b90)
+
+Calculator with single value memory 
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/72abac6c-b4e7-45c5-840b-d688ab4a93e2)
 
 
 </details>
