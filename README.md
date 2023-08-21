@@ -338,6 +338,10 @@ $cnt[31:0] = $reset ? 0 : (1 + >>1$cnt);
 ```
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/9ccc748c-75e7-4bed-aab6-f910616ac72e)
 
+Task 2: Our task is to perform a sequential calculator operation.This calculator should remember the last result and use it for the next calculation.
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/97287d00-b851-4044-925e-eddbba7bb0e8)
+
 
 </details>
 
