@@ -346,6 +346,10 @@ Task 2: Our task is to perform a sequential calculator operation.This calculator
 
 ## Pipelining
 
+Pipelining in refers to a design methodology employed in digital integrated circuit (IC) development to enhance the throughput and performance of sequential operations. It involves breaking down a complex computation or task into smaller, discrete stages, each of which can be executed concurrently by separate hardware modules. These stages are interconnected in a serial manner, creating a pipeline that allows new operations to enter the pipeline before previous ones have completed.
+
+The primary objective of pipelining is to minimize the idle time of hardware resources and maximize overall system throughput. By enabling multiple tasks to be processed simultaneously at different pipeline stages, the effective utilization of resources is improved, resulting in faster execution times for a sequence of operations.However,pipelining introduces additional challenges such as data hazards, control hazards, and inter-stage synchronization.
+
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/bad4f649-b01c-43b1-8e9c-6e8c0ce9ec43)
 
 
@@ -357,6 +361,12 @@ Task 2: Our task is to perform a sequential calculator operation.This calculator
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/e8a0fa5a-2732-42c8-b7bb-852a2c98ca92)
 
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/7e7452c8-ca42-4e59-8beb-917e658813b0)
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/f3941be2-d161-4a4e-8637-61ec5c3e3e42)
+
+Let us perform the pipelining of error conditions.
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/dbfa03ed-45bb-46c5-a38a-7f595127295c)
 
 
 </details>
