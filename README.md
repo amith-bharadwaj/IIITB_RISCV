@@ -422,8 +422,6 @@ Exercise 1: Distance Accumulator
 
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/aa5e06e1-5c4e-4346-afd0-e9763a7130f6)
 
-![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/e9db6317-eff9-493b-8129-228b585fae43)
-
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/46aff40e-5d8e-4de6-81c6-1fedd32c25c4)
 
 
