@@ -1,4 +1,4 @@
-# IIITB_RISCV
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/3836029b-24de-4e58-866e-bd3ca98f22cb)# IIITB_RISCV
 
 
 <details>
@@ -367,6 +367,37 @@ The primary objective of pipelining is to minimize the idle time of hardware res
 Let us perform the pipelining of error conditions.
 
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/dbfa03ed-45bb-46c5-a38a-7f595127295c)
+
+Task: Pipelining of Calculator and Counter
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/b2052e95-2767-4bff-928d-d1011e05c58a)
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/37a6cdbc-1c84-47ba-b650-b99ef615c797)
+
+Task: Cycle Calculator
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/f2ee4269-0a4d-4ea6-928d-8ee97759d746)
+The TLV code is given below.
+
+```
+|calc
+      @1
+         
+        $reset = *reset;
+        $val1[31:0] = >>2$out[31:0] ;
+        $val2[31:0] = $rand2[3:0];
+        $sum[31:0] = $val1[31:0] + $val2[31:0];
+        $diff[31:0] = $val1[31:0] - $val2[31:0];
+        $prod[31:0] = $val1[31:0] * $val2[31:0];
+        $quot[31:0] = $val1[31:0] / $val2[31:0];
+        $valid = $reset ? 0 : (>>1$valid + 1);
+      @2
+        $out[31:0] = ($reset | ~($valid))  ? 32'h0 : ($op[1] ? ($op[0] ? $div : $prod):($op[0] ? $diff : $sum));
+
+        
+ 
+```
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/ff8e85d3-1f03-4433-ad5d-8e7b007ad678)
 
 
 </details>
