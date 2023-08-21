@@ -326,6 +326,8 @@ Example: Fibbonaci series with Reset
 
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/c0612a9d-880e-4cd4-8f8d-0f04c23f98b7)
 
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/d10be0fc-2f15-4e61-8ea0-12a6ac764e5c)
+
 
 
 </details>
