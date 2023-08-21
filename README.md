@@ -328,6 +328,15 @@ Example: Fibbonaci series with Reset
 
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/d10be0fc-2f15-4e61-8ea0-12a6ac764e5c)
 
+Task 1: Counter
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/55945da3-25dd-4766-a454-06ff83859664)
+
+The TLV code snippet for performing the counter operation is given below.
+```
+$cnt[31:0] = $reset ? 0 : (1 + >>1$cnt);
+```
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/9ccc748c-75e7-4bed-aab6-f910616ac72e)
 
 
 </details>
