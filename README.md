@@ -1,4 +1,4 @@
-![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/3836029b-24de-4e58-866e-bd3ca98f22cb)# IIITB_RISCV
+# IIITB_RISCV
 
 
 <details>
@@ -397,7 +397,12 @@ The TLV code is given below.
         
  
 ```
+
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/ff8e85d3-1f03-4433-ad5d-8e7b007ad678)
+
+## Validity
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/23133cdb-8b66-43a5-bd38-9d060f0f1df5)
 
 
 </details>
