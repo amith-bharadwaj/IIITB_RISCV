@@ -352,6 +352,12 @@ Task 2: Our task is to perform a sequential calculator operation.This calculator
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/33442b80-9a8c-409d-a963-a95e0facf416)
 
 
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/080272e0-d3ef-479c-b3e3-f2f865fdbdff)
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/e8a0fa5a-2732-42c8-b7bb-852a2c98ca92)
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/7e7452c8-ca42-4e59-8beb-917e658813b0)
+
 
 </details>
 
