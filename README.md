@@ -502,6 +502,21 @@ Let us perform the lab for ALU logic
 .
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/1b0633b4-e2f4-43f6-835b-730309bda933)
 
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/607fb581-fd50-4a9f-99a9-a166ebd730af)
+
+Let us perform the lab for Register File Write Logic
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/df3f7bc7-b4d1-43d4-8f84-f1a9c6170067)
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/9a0ffa28-126f-4184-8418-3a688ca135be)
+
+#### Concept of Arrays and register files
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/312ceda0-d222-4118-bb8a-ffb848ed3573)
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/7e72e1ca-4c78-44a3-b155-e84694540bd6)
+
+
 </details>
 
 <details>
