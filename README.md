@@ -444,6 +444,9 @@ Calculator with single value memory
     
 <summary>DAY-4</summary>
 
+# DAY-4
+
+
 ## RISC-V Micro Architecture
 
 ### RISC-V Block Diagram
@@ -727,8 +730,16 @@ Let us perform the LAB for performing branch instructions.The verilog code is gi
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/bd6d3cf6-d02e-4f5a-b05b-5be762d2af2b)
 
     
+</details>
+
+<details>
+    
+<summary>DAY-5</summary>
+
+# DAY-5
 
 </details>
+
 
 <details>
     
