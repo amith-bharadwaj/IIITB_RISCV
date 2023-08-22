@@ -466,6 +466,39 @@ Calculator with single value memory
 
 The harmonious collaboration of these elements facilitates the execution of machine instructions within a CPU. The program counter guides the procedure of instruction acquisition, the instruction decoder translates instructions, the ALU carries out mathematical operations, the register files preserve data, and the memory components provide storage and retrieval of data. This orchestration permits the CPU to adeptly undertake the responsibilities stipulated by a program's instructions.
 
+### Fetch and Decode
+
+This is how the PC gets incremented and how the reset makes the PC to 0.
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/c26c0489-262c-4bc2-8602-5557d9ff0ddc)
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/8e1dcdd5-438d-48e5-b465-0abb054e2d57)
+
+Let us execute the fetch program.
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/4dac3b48-3971-4cf1-8ce2-8a003334db9e)
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/8aea44a3-a2be-4fbf-9f45-7fc7e325022e)
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/bfe050f9-4fff-47b1-9084-c9d055e88a43)
+
+Let us move on to the Decode logic.
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/533b8b15-e779-4aba-8090-63b8a90337c8)
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/6bad2712-fa7f-4708-be55-e183630c4532)
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/6ea43706-85b7-4cac-a673-92f51e0696d7)
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/b5c38269-7322-44ae-8274-80a1b50b7db9)
+
+### Risc-V Control logic
+
+Let us perform the lab for register file read logic.
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/b08a7c53-e262-4eb9-a5dc-005d205851cd)
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/7d3303ab-2b25-4b9a-8449-facd54381566)
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/b4ca4ab4-e62c-4f0b-b8c4-b0f75149c7a7)
+
+
 </details>
 
 <details>
