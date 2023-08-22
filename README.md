@@ -464,7 +464,7 @@ Calculator with single value memory
 
 7.The Write Register File shoulders the responsibility of capturing the outcomes of operations and storing them back into registers. Following the execution of an instruction, the outcomes are frequently inscribed back into the register file. This practice guarantees that the revised data stands ready for ensuing instructions.
 
-    The harmonious collaboration of these elements facilitates the execution of machine instructions within a CPU. The program counter guides the procedure of instruction acquisition, the instruction decoder translates instructions, the ALU carries out mathematical operations, the register files preserve data, and the memory components provide storage and retrieval of data. This orchestration permits the CPU to adeptly undertake the responsibilities stipulated by a program's instructions.
+The harmonious collaboration of these elements facilitates the execution of machine instructions within a CPU. The program counter guides the procedure of instruction acquisition, the instruction decoder translates instructions, the ALU carries out mathematical operations, the register files preserve data, and the memory components provide storage and retrieval of data. This orchestration permits the CPU to adeptly undertake the responsibilities stipulated by a program's instructions.
 
 </details>
 
