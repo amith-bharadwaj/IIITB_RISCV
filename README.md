@@ -719,6 +719,14 @@ Let us perform the LAB for performing branch instructions.The verilog code is gi
 
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/0f400e61-3bf4-47c1-928f-a275162a7b40)
 
+#### Test Bench
+
+**Test bench** consists of a set of stimuli (input patterns or signals) that are applied to the design under test (DUT), along with a mechanism to capture and analyze the resulting outputs or responses. The purpose of a test bench is to simulate real-world scenarios and test various aspects of the design's behavior to ensure that it meets its intended specifications and requirements.
+
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/bd6d3cf6-d02e-4f5a-b05b-5be762d2af2b)
+
+    
 
 </details>
 
