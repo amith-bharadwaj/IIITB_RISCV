@@ -498,6 +498,9 @@ Let us perform the lab for register file read logic.
 
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/b4ca4ab4-e62c-4f0b-b8c4-b0f75149c7a7)
 
+Let us perform the lab for ALU logic
+.
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/1b0633b4-e2f4-43f6-835b-730309bda933)
 
 </details>
 
