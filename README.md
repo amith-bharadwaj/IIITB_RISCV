@@ -740,6 +740,21 @@ Let us perform the LAB for performing branch instructions.The verilog code is gi
 
 ### Pipelining 
 
+These are the pipeline stages in a RISC-V CPU:
+
+1.**Instruction Fetch (IF):** In this stage, the processor fetches the instruction from memory using the program counter (PC). The PC is updated to point to the next instruction.
+
+2.**Instruction Decode (ID):** The fetched instruction is decoded in this stage. The decoder identifies the instruction type, determines the required operands, and prepares the control signals needed for subsequent stages.
+
+3.**Execute (EX):** The ALU (Arithmetic Logic Unit) performs the actual computation or operation specified by the instruction. This stage can include arithmetic, logical, and comparison operations.
+
+4.**Memory Access (MEM):** This stage handles memory-related operations. If the instruction involves memory access, such as loads or stores, it is executed here. Data is read from or written to memory.
+
+5.**Write Back (WB):** In this stage, the result of the executed instruction is written back to a register. This stage ensures that the updated data is available for subsequent instructions.
+
+By breaking down the execution process into these stages, the pipeline allows multiple instructions to be in different stages simultaneously. While one instruction is in the execution stage, another can be in the decode stage, and yet another in the fetch stage. This overlap increases the CPU's efficiency and throughput.
+
+
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/a9c67956-7e48-4a10-9bf5-cc93d112953f)
 
 
