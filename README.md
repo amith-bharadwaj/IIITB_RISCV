@@ -516,6 +516,28 @@ Let us perform the lab for Register File Write Logic
 
 ![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/7e72e1ca-4c78-44a3-b155-e84694540bd6)
 
+#### Branch Instructions
+Let us perform the LAB for performing branch instructions.
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/2ed93123-4af1-4c6f-b089-44168d4d076b)
+
+Branch instructions in the RISC-V architecture are used to alter the program flow based on certain conditions. They allow the program to jump to a different instruction address, often referred to as the target address, if a specified condition is met. Here's an explanation of the branch instructions you mentioned:
+
+1.**BEQ** (Branch if Equal): The BEQ instruction compares two registers and branches to the target address if they are equal. It checks if the contents of two specified registers are the same, and if they are, the program counter is updated to the target address.
+
+2.**BNE** (Branch if Not Equal): The BNE instruction also compares two registers but branches to the target address if they are not equal. If the contents of the two registers are different, the program counter is updated to the target address.
+
+3.**BLT** (Branch if Less Than): The BLT instruction compares two signed integer values in registers and branches to the target address if the first value is less than the second value. It checks the signed comparison between two registers and jumps if the first register's value is less than the second's.
+
+4.**BGE** (Branch if Greater Than or Equal): The BGE instruction compares two signed integer values in registers and branches to the target address if the first value is greater than or equal to the second value. It checks the signed comparison and jumps if the first register's value is greater than or equal to the second's.
+
+5.**BLTU** (Branch if Less Than, Unsigned): The BLTU instruction compares two unsigned integer values in registers and branches to the target address if the first value is less than the second value. It performs an unsigned comparison and jumps if the first register's value is less than the second's.
+
+6.**BGEU** (Branch if Greater Than or Equal, Unsigned): The BGEU instruction compares two unsigned integer values in registers and branches to the target address if the first value is greater than or equal to the second value. It performs an unsigned comparison and jumps if the first register's value is greater than or equal to the second's.
+
+In all of these branch instructions, if the specified condition is met, the program counter is updated to the target address, resulting in the program branching to a different part of the code. If the condition is not met, the program continues with the next sequential instruction after the branch instruction.
+
+These branch instructions are fundamental for implementing conditional execution, loops, and decision-making in programs written in the RISC-V assembly language. They provide the ability to create more flexible and dynamic program flows.
 
 </details>
 
