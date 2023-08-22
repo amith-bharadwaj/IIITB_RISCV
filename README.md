@@ -738,6 +738,26 @@ Let us perform the LAB for performing branch instructions.The verilog code is gi
 
 # DAY-5
 
+### Pipelining 
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/a9c67956-7e48-4a10-9bf5-cc93d112953f)
+
+
+### WaterFlow Logic Diagram
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/4859f845-58a4-4034-826f-446cf370f90f)
+
+The working of waterflow diagram is shown below.
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/7d8b6c21-75d1-47a3-9a44-ad65f8b8e855)
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/a23fe745-4a47-4b2e-b428-33c9d4d8f268)
+
+Let us do a lab to see which cycles are valid and which of them are invalid.
+
+![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/ccf3d0d3-cda4-469c-aeb5-5bc092411e51)
+
+
 </details>
 
 
