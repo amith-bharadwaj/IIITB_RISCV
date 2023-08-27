@@ -921,7 +921,15 @@ pipelined logic in the TL-Verilog code is given below:
          `BOGUS_USE($rd)
          
       @2
-         //INSTRUCTION DECODE
+$is_jump = $is_jal || $is_jalr ;
+         
+         `BOGUS_USE ($is_beq $is_bne $is_blt $is_bge $is_bltu $is_bgeu $is_addi $is_add)
+         
+         
+       
+         
+      @3
+  //INSTRUCTION DECODE
          $dec_bits[10:0] = {$funct7[5], $funct3, $opcode};
          $is_beq = $dec_bits ==? 11'bx_000_1100011;
          $is_bne = $dec_bits ==? 11'bx_001_1100011;
@@ -960,13 +968,7 @@ pipelined logic in the TL-Verilog code is given below:
          $is_and = $dec_bits ==? 11'b0_111_0110011;
          
          $jalr_target_pc[31:0] = $src1_value +$imm ;
-         
-      @3
-         $is_jump = $is_jal || $is_jalr ;
-         
-         `BOGUS_USE ($is_beq $is_bne $is_blt $is_bge $is_bltu $is_bgeu $is_addi $is_add)
-         
-         
+        
       @2
          //REGISTER FILE READ
          
@@ -1077,8 +1079,7 @@ pipelined logic in the TL-Verilog code is given below:
 
 ```
 
-
-
+![Screenshot from 2023-08-25 14-46-09](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/03672a42-f54d-43af-be27-6b03cb1e4e8c)
 
 
 
@@ -1087,10 +1088,6 @@ pipelined logic in the TL-Verilog code is given below:
 
 
 <details>
-
-
-
-![image](https://github.com/amith-bharadwaj/IIITB_RISCV/assets/84613258/9faf1501-d3f0-4e0c-91c5-04cb576b730b)
 
 
     
